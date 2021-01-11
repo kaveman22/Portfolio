@@ -1,4 +1,4 @@
-#Portfolio Website for Kyle McDonald
+Portfolio Website for Kyle McDonald
 
   Hi I'm Kyle, Welcome to my personal portfolio! I put this site together to show a few of the hallmark
   applications that I feel best represent my work and understanding of technology. I am by in large a self 
